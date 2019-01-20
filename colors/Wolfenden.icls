@@ -4,7 +4,7 @@
     <property name="created">2019-01-20T16:01:23</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-20T16:30:47</property>
+    <property name="modified">2019-01-21T08:22:05</property>
     <property name="originalScheme">Wolfenden</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -376,7 +376,7 @@
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="70ff70" />
+        <option name="FOREGROUND" value="99c794" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
@@ -416,6 +416,11 @@
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f8f8f0" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffc863" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
