@@ -1,0 +1,15 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="166-178-192-255,,,255-200-99-255,,,171-121-103-255,,,236-95-103-255,,,102-153-204-255,,,95-179-179-255,,,249-145-57-255,,,255-102-178-255,,,197-148-197-255,,,153-199-148-255,,,79-91-102-255" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SettingsSearchHistory" value="whitespace&#10;whitesp" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/Wolfenden.icls&#10;D:/dev/TicketSolutions.Invoices/src/TicketSolutions.Invoices.sln" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="D:/dev/TicketSolutions.Invoices/src" />
+    <property name="selected.color.option.type" value="ReSharper.ASP_NET_MVC_AREA" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
