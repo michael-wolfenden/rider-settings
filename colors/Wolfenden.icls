@@ -4,7 +4,7 @@
     <property name="created">2019-01-20T16:01:23</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-21T12:13:20</property>
+    <property name="modified">2019-01-21T12:14:46</property>
     <property name="originalScheme">Wolfenden</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -516,6 +516,21 @@
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES">
+      <value>
+        <option name="FOREGROUND" value="666d75" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="7b94b3" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
+      <value>
+        <option name="FOREGROUND" value="ca7e03" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
