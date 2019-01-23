@@ -4,7 +4,7 @@
     <property name="created">2019-01-20T16:01:23</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-22T13:17:48</property>
+    <property name="modified">2019-01-23T10:49:31</property>
     <property name="originalScheme">Wolfenden</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -581,7 +581,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ec5f67" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
