@@ -4,7 +4,7 @@
     <property name="created">2019-01-20T16:01:23</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-23T15:15:09</property>
+    <property name="modified">2019-01-30T09:49:03</property>
     <property name="originalScheme">Wolfenden</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -3826,6 +3826,11 @@
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="314365" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ec5f67" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
