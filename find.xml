@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\09-Tools\Common\3.2-Code_cleanup_full_cleanup.cs'" />
-    <option name="defaultScopeName" value="File '...\09-Tools\Common\3.2-Code_cleanup_full_cleanup.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\09-Tools\Common\3.2-Code_cleanup_full_cleanup.cs'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
