@@ -4,7 +4,7 @@
     <property name="created">2019-01-20T16:01:23</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-02-18T15:31:39</property>
+    <property name="modified">2019-04-24T10:33:05</property>
     <property name="originalScheme">Wolfenden</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -3354,6 +3354,16 @@
         <option name="FOREGROUND" value="f99139" />
       </value>
     </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM">
+      <value>
+        <option name="FOREGROUND" value="ff66b2" />
+      </value>
+    </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2">
+      <value>
+        <option name="FOREGROUND" value="ff66b2" />
+      </value>
+    </option>
     <option name="ReSharper.HINT">
       <value>
         <option name="EFFECT_COLOR" value="99c794" />
@@ -3363,6 +3373,11 @@
     <option name="ReSharper.LATE_BOUND_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
+      <value>
+        <option name="BACKGROUND" value="ff66b2" />
       </value>
     </option>
     <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
