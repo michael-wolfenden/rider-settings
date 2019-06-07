@@ -1,0 +1,11 @@
+<keymap version="1" name="Wolfenden" parent="Visual Studio">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
+  <action id="Console.TableResult.CloneColumn" />
+  <action id="CopyReference" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
+  <action id="UML.ShowChanges" />
+</keymap>
