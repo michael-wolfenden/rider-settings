@@ -1,11 +1,25 @@
 <keymap version="1" name="Wolfenden" parent="Visual Studio">
+  <action id="ChangesView.Diff" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneColumn" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="CopyReference" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RiderUnitTestDebugContextTwAction" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
   <action id="UML.ShowChanges" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
