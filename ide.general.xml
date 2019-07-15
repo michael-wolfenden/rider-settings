@@ -15,6 +15,7 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="ide.win.file.chooser.native" value="true" />
-    <entry key="ide.win.frame.decoration" value="true" />
+    <entry key="performance.watcher.sampling.interval.ms" value="100" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="500" />
   </component>
 </application>
