@@ -6,10 +6,16 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneColumn" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="CopyReference" />
   <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
@@ -21,5 +27,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
   <action id="UML.ShowChanges" />
+  <action id="Uml.ShowDiff" />
   <action id="openAssertEqualsDiff" />
 </keymap>
