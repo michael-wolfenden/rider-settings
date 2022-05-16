@@ -1,5 +1,0 @@
-<application>
-  <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="$USER_HOME$/AppData/Local/pnpm/node.exe" />
-  </component>
-</application>
